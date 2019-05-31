@@ -6,7 +6,7 @@ cleared from the cache.
 
 ### Quick Start
 
-See [full document](https://github.com/bcbchain/bcbchain/doc/BCBChain_V2.0_Quick_Start_cn.md)
+See [full document](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Quick_Start_cn.md)
 - Code building
 - Test chain
 - Private chain
