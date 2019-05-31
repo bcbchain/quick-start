@@ -12,7 +12,7 @@ See [full document](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChai
 - Transaction
 - Smart contract
 
-### Program Reference
+### BCBChain Program Reference
 
 See [full document](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Program_Reference_cn.md)
 
@@ -22,12 +22,12 @@ See [full document](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChai
 - Related Algorithm Explanation
 - Transaction format
 - Communication Protocol
-- Interface Description
+- Program Interface
 - Integration guide
 
-### Smart Contract Reference
+### Smart Contract Program Reference
 
-Program Guide See [full document](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Smart_Contract_Program_Guide_cn.md)
+See [full document](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Smart_Contract_Program_Guide_cn.md)
 
 - Overview
 - Examples
@@ -39,5 +39,10 @@ Program Guide See [full document](https://github.com/bcbchain/sdk/blob/master/do
 
 See [full document](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_cn_1.0.3.md)
 
-- Overview
-- 
+- Introduction
+- Software and Hardware Requirements
+- Deployment and Launch Procedures
+- Communication Protocol
+- Program Interface
+- bcbXwallet
+- How to Rapidly Setup with the Exchange
