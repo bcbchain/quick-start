@@ -5,7 +5,7 @@ The data corresponding to the key value is deleted in the state database, and th
 ### Quick Start
 
 See	[markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Quick_Start_cn.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.pdf)
-			
+
 - Code building
 - Test chain
 - Private chain
@@ -15,7 +15,7 @@ See	[markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.
 
 ### BCBChain Program Reference
 
-See [full document](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Program_Reference_cn.md)
+See [markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Program_Reference_cn.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_Program_Reference_cn.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_Program_Reference_cn.pdf)
 
 - Introduction
 - Summary description
@@ -28,7 +28,7 @@ See [full document](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChai
 
 ### Smart Contract Program Reference
 
-See [full document](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Smart_Contract_Program_Guide_cn.md)
+See [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Smart_Contract_Program_Guide_cn.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_Smart_Contract_Program_Guide_cn.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_Smart_Contract_Program_Guide_cn.pdf)
 
 - Overview
 - Examples
@@ -38,7 +38,7 @@ See [full document](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.
 
 ### Exchange Interagtion
 
-See [full document](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_cn_1.0.3.md)
+See [markdown](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_cn.md) [html](https://www.bcbchain.io/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_cn.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_cn.pdf)
 
 - Introduction
 - Software and Hardware Requirements
