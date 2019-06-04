@@ -34,7 +34,7 @@ See [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Sma
 - Examples
 - Deeper Understanding
 - Developing Smart Contract
-- [SDK Reference](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_SmartContract_SDK_Reference.md)
+- SDK Reference [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_SmartContract_SDK_Reference.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_SmartContract_SDK_Reference.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_SmartContract_SDK_Reference.pdf)
 
 ### Exchange Interagtion
 
