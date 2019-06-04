@@ -4,7 +4,7 @@ The data corresponding to the key value is deleted in the state database, and th
 
 ### Quick Start
 
-See	[markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Quick_Start_cn.md) [html](https://bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.html) [pdf](https://bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.pdf)
+See	[markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Quick_Start_cn.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.pdf)
 			
 - Code building
 - Test chain
