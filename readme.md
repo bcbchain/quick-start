@@ -4,7 +4,7 @@ The data corresponding to the key value is deleted in the state database, and th
 
 ### Quick Start
 
-See	[markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Quick_Start_cn.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_cn.pdf)
+See	[markdown](https://github.com/bcbchain/bcbchain/blob/master/doc/BCBChain_V2.0_Quick_Start_en.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_en.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_Quick_Start_en.pdf)
 
 - Code building
 - Test chain
@@ -34,7 +34,7 @@ See [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Sma
 - Examples
 - Deeper Understanding
 - Developing Smart Contract
-- SDK Reference [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_SmartContract_SDK_Reference.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_SmartContract_SDK_Reference.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_SmartContract_SDK_Reference.pdf)
+- SDK Reference [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_SmartContract_SDK_Reference_en.md) [html](https://www.bcbchain.io/doc/BCBChain_V2.0_SmartContract_SDK_Reference_en.html) [pdf](https://www.bcbchain.io/doc/BCBChain_V2.0_SmartContract_SDK_Reference_en.pdf)
 
 ### Exchange Interagtion
 
