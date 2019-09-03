@@ -38,7 +38,7 @@ See [markdown](https://github.com/bcbchain/sdk/blob/master/doc/BCBChain_V2.0_Sma
 
 ### Exchange Interagtion
 
-See [markdown](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_en.md) [html](https://www.bcbchain.io/static/bcbchain-docs/#/en/BCBChain_V1.0_Quick_Start_For_Exchanges_en) [pdf](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V1.0_Quick_Start_For_Exchanges_en.pdf)
+See [markdown](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V2.0_Quick_Start_For_Exchanges_en.md) [html](https://www.bcbchain.io/static/bcbchain-docs/#/en/BCBChain_V2.0_Quick_Start_For_Exchanges_en) [pdf](https://github.com/bcbchain/xwallet/blob/master/doc/BCBChain_V2.0_Quick_Start_For_Exchanges_en.pdf)
 
 - Introduction
 - Software and Hardware Requirements
